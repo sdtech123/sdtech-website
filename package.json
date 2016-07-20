@@ -1,0 +1,39 @@
+{
+  "name": "dvlper",
+  "version": "1.0.0",
+  "description": "DVLPER is a full stack Development firm rooted in the heart of the miami tech scene. Born from the need for a more transparent and collaborative development process, we have created a 12 stage process to get your business from an idea on a napkin to a fully developed product.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scosentino/dvlper.git"
+  },
+  "keywords": [
+    "webdesign",
+    "web",
+    "maimi",
+    "developer",
+    "startup"
+  ],
+  "author": "Sean Cosentino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scosentino/dvlper/issues"
+  },
+  "homepage": "https://github.com/Scosentino/dvlper#readme",
+  "dependencies": {
+    "event-stream": "^3.3.2",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-watch": "^4.3.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
